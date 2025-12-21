@@ -4,11 +4,12 @@
 
 <p align="center">
   <img
-    src="https://i.ibb.co/PZXR1DdD/copy-3-DE26-EEE-4380-48-FA-8296-84-D194212-C72-ezgif-com-gif-to-webp-converter.webp"
+    src="demo.gif"
     alt="Arc Raiders Companion preview"
     width="320"
   />
 </p>
+
 
 
 ## 🚀 Features
