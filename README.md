@@ -1,5 +1,6 @@
 # Arc Raiders Companion 📦
 **The ultimate sidekick for Arc Raiders.** -> get ready  , release is sooo sooon
+![App demo](https://github.com/xDPixel/Arc-Raiders-iOS-App-companion/raw/main/demo/demo.gif)
 
 ## 🚀 Features
 
