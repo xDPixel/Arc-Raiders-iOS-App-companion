@@ -1,4 +1,4 @@
-# Arc Raiders Companion 📦
+# Arc Raiders Companion
 **The ultimate sidekick for Arc Raiders.** -> get ready  , release is sooo sooon
 
 
@@ -12,7 +12,7 @@
 
 
 
-## 🚀 Features
+## Features
 
 *   **📦 Item Database**: Detailed stats, rarity, and values for every item. Know what's trash and what's treasure.
 *   **🏠 Hideout Tracker**: Plan your station upgrades. See exactly what materials you need for that next Gunsmith level.
@@ -21,17 +21,17 @@
 *   **⚡ Offline Ready**: Built for the apocalypse. Most features work seamlessly without an internet connection.
 *   **🔄 Auto-Updates**: Checks game sources for the latest data automatically.
 
-## 📡 Data Sources
+## Data Sources
 
 This app wouldn't be possible without the incredible work of **MetaForge**.
 
-## 🛠️ Installation
+## Installation
 
 1.  Go to the **[Releases](../../releases)** page.
 2.  Download the latest `.ipa` file.
 3.  Install via AltStore, SideStore, or your preferred signing method (My suggestion is **[DPixelStore](https://dpixel.co)**) .
 
-## 👨‍💻 Developer
+## Developer
 
 **DangerousPixel**
 *   **X (Twitter)**: [@DangerousPixel](https://x.com/DangerousPixel)
