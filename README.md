@@ -1,6 +1,5 @@
 # Arc Raiders Companion
-**The ultimate sidekick for Arc Raiders.** -> get ready  , release is sooo sooon
-
+**The ultimate sidekick for Arc Raiders.**
 
 <p align="center">
   <img
