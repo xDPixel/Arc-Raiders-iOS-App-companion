@@ -1,4 +1,4 @@
-# Arc Raiders Companion (iOS 16+)
+# Arc Raiders Companion (iOS 17.0+)
 **The ultimate sidekick for Arc Raiders.**
 
 <p align="center">
