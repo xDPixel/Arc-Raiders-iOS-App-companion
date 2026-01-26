@@ -29,7 +29,7 @@ This app wouldn't be possible without the incredible work of **MetaForge**.
 1.  Go to the **[Releases](../../releases)** page.
 2.  Download the latest `.ipa` file.
 3.  Install via AltStore, SideStore, or your preferred signing method (My suggestion is **[DPixelStore](https://dpixel.co)**) .
-4.  Supported OS : App supports iOS16+ , lower iOS versions aren't supported *SORRY:')*
+4.  Supported OS : App supports iOS17+ , lower iOS versions aren't supported *SORRY:')*
 
 ## Developer
 
