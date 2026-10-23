@@ -1,5 +1,5 @@
 # Arc Raiders Companion (Deprecated)
-**Find the new Project @ [AR Companion Releases](https://github.com/xDPixel/Arc-Raiders-iOS-App-companion/releases)**
+**Find the new Project @ [AR Companion New Project](https://github.com/xDPixel/Arc-Raiders-iOS-App-companion)**
 
 <p align="center">
   <img
