@@ -1,5 +1,5 @@
-# Arc Raiders Companion (iOS 17.0+)
-**The ultimate sidekick for Arc Raiders.**
+# Arc Raiders Companion (Deprecated)
+**Find the new Project @ [AR Companion Releases](https://github.com/xDPixel/Arc-Raiders-iOS-App-companion/releases)**
 
 <p align="center">
   <img
